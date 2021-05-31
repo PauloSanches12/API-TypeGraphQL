@@ -15,4 +15,4 @@ API de cadastro de videos desenvolvida para fins de estudo sobre a biblioteca Ty
 * __TypeScript__
 * __Apollo Server__
 * __TypeGraphQL__
-* __MongoBD__
+* __MongoDB__
