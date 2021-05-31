@@ -9,10 +9,10 @@ API de cadastro de videos desenvolvida para fins de estudo sobre a biblioteca Ty
 </p>
 
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
-__Nodejs__
-__TypeScript__
-__Apollo Server__
-__TypeGraphQL__
-__MongoBD__
+* __Nodejs__
+* __TypeScript__
+* __Apollo Server__
+* __TypeGraphQL__
+* __MongoBD__
